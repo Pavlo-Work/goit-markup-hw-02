@@ -19,10 +19,10 @@
     line-height: 1.5;
     letter-spacing: 0.04em;
 }
-button:hover,
-button:focus {
+.service-button:hover,
+.service-button:focus {
     background-color: #404BBF;
 }
-button {
+.service-button {
     cursor: pointer;
 }
