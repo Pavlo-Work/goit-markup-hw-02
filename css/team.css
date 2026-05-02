@@ -1,0 +1,10 @@
+#team {
+    background-color: #f4f4fd;
+}
+#team h3,
+#team p {
+    text-align: center;
+}
+.teamlist {
+    background-color: #ffffff;
+}

@@ -1,0 +1,38 @@
+.logo {
+    font-family: "Raleway", sans-serif;
+}
+span {
+    color: #4D5AE5;
+}
+body {
+    font-family: "Roboto", sans-serif;
+    color: #2E2F42;
+    background-color: #FFFFFF;
+}
+
+ul {
+    list-style-type: none;
+}
+a {
+    text-decoration: none;
+    color: inherit;
+}
+.section-title {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
+}
+h3 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
